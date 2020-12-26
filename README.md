@@ -1,4 +1,4 @@
-# Notification class toll for BACnet networks
+# Notification class tool for BACnet networks
 
 ## Project setup
 ```
